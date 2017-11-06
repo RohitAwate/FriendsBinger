@@ -13,7 +13,7 @@ Friends - 4x12 - The One With The Embryos.mkv
 
 Things I wish to add to this:
 - A recents list which gets scanned everytime so that an episode which you recently watched isn't repeated.
-- A GUI.
+- A GUI. ✅
 - Better support for reading filenames.
 
 PS: I did this project in an effort to learn and get familiar Python, not because this stupid app needed to be made!
